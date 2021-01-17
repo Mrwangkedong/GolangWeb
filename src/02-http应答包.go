@@ -17,7 +17,7 @@ func main() {
 
 }
 
-//回调函数，本质：函数指针
+//回调函数，本质：函数指针.
 func handler(w http.ResponseWriter, r *http.Request) {
 	//w 写回给客户端(浏览器)的数据
 	//r 从客户端读到的数据
