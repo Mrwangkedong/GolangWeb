@@ -1,4 +1,4 @@
-![img.png](img/http报文格式0.png)
+![img.png](img/img.png)
 
 
 http响应报文格式
