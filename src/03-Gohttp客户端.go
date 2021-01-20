@@ -14,7 +14,7 @@ func main() {
 	}
 	defer resp.Body.Close()
 
-	//简单查看应答包
+	//简单查看应答包.
 	fmt.Println("Header: ", resp.Header)
 	fmt.Println("Status", resp.Status)
 	fmt.Println("Proto", resp.Proto)
