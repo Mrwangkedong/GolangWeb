@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeb7a915-c43b-46c2-baff-b28be3183a87" name="Default Changelist" comment="http访问文件">
-      <change afterPath="$PROJECT_DIR$/src/03-Gohttp客户端.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="eeb7a915-c43b-46c2-baff-b28be3183a87" name="Default Changelist" comment=".net应用">
+      <change afterPath="$PROJECT_DIR$/src/Go语言爬虫/百度贴吧爬虫.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,6 +114,7 @@
     <MESSAGE value="GolangWeb思路" />
     <MESSAGE value="http请求、应答" />
     <MESSAGE value="http访问文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="http访问文件" />
+    <MESSAGE value=".net应用" />
+    <option name="LAST_COMMIT_MESSAGE" value=".net应用" />
   </component>
 </project>
