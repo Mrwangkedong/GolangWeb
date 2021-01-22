@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeb7a915-c43b-46c2-baff-b28be3183a87" name="Default Changelist" comment=".net应用">
-      <change afterPath="$PROJECT_DIR$/src/Go语言爬虫/百度贴吧爬虫.go" afterDir="false" />
+    <list default="true" id="eeb7a915-c43b-46c2-baff-b28be3183a87" name="Default Changelist" comment="golang爬虫">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Go语言爬虫/百度贴吧爬虫.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Go语言爬虫/百度贴吧爬虫.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="C:\Users\Cristiano-Ronaldo\go\src\GolangWeb\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build 03-Gohttp客户端.go">
+  <component name="RunManager" selected="Go Build.go build 百度贴吧爬虫.go">
     <configuration name="go build 01-获取http请求服务器.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolangWeb" />
       <working_directory value="$PROJECT_DIR$" />
@@ -80,13 +80,24 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 百度贴吧爬虫.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolangWeb" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/Go语言爬虫/百度贴吧爬虫.go" />
+      <package value="GolangWeb" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.go build 01-获取http请求服务器.go" />
       <item itemvalue="Go Build.go build 02-http应答包-测试客户端.go" />
       <item itemvalue="Go Build.go build 03-Gohttp客户端.go" />
+      <item itemvalue="Go Build.go build 百度贴吧爬虫.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 百度贴吧爬虫.go" />
         <item itemvalue="Go Build.go build 03-Gohttp客户端.go" />
         <item itemvalue="Go Build.go build 02-http应答包-测试客户端.go" />
         <item itemvalue="Go Build.go build 01-获取http请求服务器.go" />
@@ -115,6 +126,7 @@
     <MESSAGE value="http请求、应答" />
     <MESSAGE value="http访问文件" />
     <MESSAGE value=".net应用" />
-    <option name="LAST_COMMIT_MESSAGE" value=".net应用" />
+    <MESSAGE value="golang爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="golang爬虫" />
   </component>
 </project>
