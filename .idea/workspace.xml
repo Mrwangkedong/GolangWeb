@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeb7a915-c43b-46c2-baff-b28be3183a87" name="Default Changelist" comment="golang爬虫">
+    <list default="true" id="eeb7a915-c43b-46c2-baff-b28be3183a87" name="Default Changelist" comment="golang并发爬虫">
+      <change afterPath="$PROJECT_DIR$/src/Go正则表达式/正则规则.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Go语言爬虫/百度贴吧爬虫.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Go语言爬虫/百度贴吧爬虫.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +89,15 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 并发百度贴吧爬虫.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolangWeb" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/Go语言爬虫/并发百度贴吧爬虫.go" />
+      <package value="GolangWeb" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.go build 01-获取http请求服务器.go" />
       <item itemvalue="Go Build.go build 02-http应答包-测试客户端.go" />
@@ -127,6 +136,7 @@
     <MESSAGE value="http访问文件" />
     <MESSAGE value=".net应用" />
     <MESSAGE value="golang爬虫" />
-    <option name="LAST_COMMIT_MESSAGE" value="golang爬虫" />
+    <MESSAGE value="golang并发爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="golang并发爬虫" />
   </component>
 </project>
