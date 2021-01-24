@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeb7a915-c43b-46c2-baff-b28be3183a87" name="Default Changelist" comment="golang正则表达式">
-      <change afterPath="$PROJECT_DIR$/src/Go正则表达式/正则Test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Go语言爬虫/豆瓣电影爬取.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Go正则表达式/正则Test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/Go正则表达式/正则Test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Go正则表达式/正则规则.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Go正则表达式/正则规则.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,16 +53,7 @@
       <recent name="C:\Users\Cristiano-Ronaldo\go\src\GolangWeb\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build GolangWeb/src/Go正则表达式">
-    <configuration name="go build 01-获取http请求服务器.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="GolangWeb" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/01-获取http请求服务器.go" />
-      <package value="GolangWeb" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build 03-Gohttp客户端.go">
     <configuration name="go build 02-http应答包-测试客户端.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolangWeb" />
       <working_directory value="$PROJECT_DIR$" />
@@ -99,6 +91,15 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build 豆瓣电影爬取.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GolangWeb" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/Go语言爬虫/豆瓣电影爬取.go" />
+      <package value="GolangWeb" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build 并发百度贴吧爬虫.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GolangWeb" />
       <working_directory value="$PROJECT_DIR$" />
@@ -109,19 +110,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build 01-获取http请求服务器.go" />
       <item itemvalue="Go Build.go build 02-http应答包-测试客户端.go" />
       <item itemvalue="Go Build.go build 03-Gohttp客户端.go" />
       <item itemvalue="Go Build.go build 百度贴吧爬虫.go" />
       <item itemvalue="Go Build.go build GolangWeb/src/Go正则表达式" />
+      <item itemvalue="Go Build.go build 豆瓣电影爬取.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 03-Gohttp客户端.go" />
+        <item itemvalue="Go Build.go build 豆瓣电影爬取.go" />
         <item itemvalue="Go Build.go build GolangWeb/src/Go正则表达式" />
         <item itemvalue="Go Build.go build 百度贴吧爬虫.go" />
-        <item itemvalue="Go Build.go build 03-Gohttp客户端.go" />
         <item itemvalue="Go Build.go build 02-http应答包-测试客户端.go" />
-        <item itemvalue="Go Build.go build 01-获取http请求服务器.go" />
       </list>
     </recent_temporary>
   </component>
